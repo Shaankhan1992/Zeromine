@@ -1,0 +1,2 @@
+# Zeromine
+Mining coin
